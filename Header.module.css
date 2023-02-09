@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&family=Roboto:wght@300;400&display=swap');
+
+.Header{
+    background-color: rgb(25, 247, 255);
+    text-align: center;
+    height: 40px ;
+    align-items: center;
+    font-size: larger;
+    font-weight: 500;
+    padding: 15px;
+    font-family: 'Poppins', sans-serif;
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&family=Roboto:wght@300;400&display=swap');
+
+.inbox{
+  
+    background-image: linear-gradient(to right,rgba(255,0,0,0), rgb(59, 255, 255));
+   
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+    font-size:large;
+    cursor: pointer;
+}

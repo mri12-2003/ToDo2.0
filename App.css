@@ -1,0 +1,38 @@
+/* .App {
+  text-align: center;
+  background-color: aqua;
+  height: 100%;
+  width: 100%;
+
+}
+.sidenav{
+
+  border-radius: 10px;
+  box-shadow: 3px 3px 8px grey;
+  list-style: none;
+  display: flex;
+  justify-content:space-evenly;
+  width: 50%;
+  height: 70px;
+  margin-left: 200px;
+  margin-top: 30px;
+  padding: 10px;
+  align-items: center;
+  background-color: rgb(250, 169, 19)
+  
+}
+
+.sidenav p{
+  padding: 20px;
+  border-radius: 4px;
+  border-radius: 10px;
+  margin: 0 20px 0 20px;
+  cursor: pointer;
+  font-size: 15jpx;
+  font-weight: bold;
+  background-color: rgb(255, 249, 142);
+}
+
+.sidenav p:hover{
+  box-shadow: rgb(26, 25, 10);
+} */
